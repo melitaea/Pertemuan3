@@ -43,7 +43,7 @@ h3{
 .sidebar{
     float: left;
     background: lightskyblue;
-    padding: 31px;
+    padding: 30px;
     width: 382px;
 }
 .sidebar h3{
@@ -55,7 +55,7 @@ h3{
 .footer{
     background-color: yellowgreen;
     padding: 10px;
-    text-align: center;
+    text-align:  center;
     color: white;
 }
 .footer p{
