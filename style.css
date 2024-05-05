@@ -42,9 +42,9 @@ article{
 }
 aside{
     float: left;
-    background: mediumpurple;
+    background: lightskyblue;
     padding: 31px;
-    width: 382;
+    width: 430px;
 }
 aside h3{
     margin-left: 30px;
